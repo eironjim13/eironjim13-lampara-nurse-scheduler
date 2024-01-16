@@ -6,8 +6,6 @@
 
 ```bash
 cd lampara-nurse-scheduler
-npm install --from-lock-json
-npm audit fix
 yarn install
 ```
 
@@ -45,7 +43,7 @@ DB_URL=mongodb://lampara-admin:lampara-admin@ac-unjezsj-shard-00-00.uxpqe43.mong
 TOKEN_SECRET=vQGJTzp6dVO3tQaP5TE593vShCaUWLKBlC/0hnycBryobczMIR4nRjlqhOtz5yD6
 ```
 
-After setting up .env
+After setting up .env file
 
 Run the backend 
 
