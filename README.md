@@ -33,7 +33,7 @@ Run the following command to install dependencies:
 yarn install
 ```
 
-### Setting up .env file
+## Setting up .env file
 
 This project relies on specific environment variables. If you're running the project on your local machine, establish a .env file at the project's root to configure these variables. If using a hosting provider, utilize their built-in feature to directly set these variables, ensuring they are not inadvertently exposed. The necessary variables are as follows:
 
@@ -43,12 +43,27 @@ DB_URL=mongodb://lampara-admin:lampara-admin@ac-unjezsj-shard-00-00.uxpqe43.mong
 TOKEN_SECRET=vQGJTzp6dVO3tQaP5TE593vShCaUWLKBlC/0hnycBryobczMIR4nRjlqhOtz5yD6
 ```
 
-After setting up .env file
+##After setting up .env file
 
-Run the backend 
+###Run the backend 
 
 ```shell
 yarn start
 ```
 
+# Setting up the socket server 
+
+##Run the following command to install dependencies:
+
+```shell
+yarn install
+```
+
+##After installing the required packages:
+
+###Run the socket server
+
+```shell
+yarn start
+```
 
