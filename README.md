@@ -8,11 +8,13 @@
 cd lampara-nurse-scheduler
 npm install --from-lock-json
 npm audit fix
+yarn install
 ```
 
-4. Copy `.env.example` as `.env`.
-
-5. Change API url in `.env`.
+4. Run the code
+```bash
+yarn dev
+```
 
 # React + Vite
 
