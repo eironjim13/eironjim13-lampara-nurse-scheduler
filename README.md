@@ -53,15 +53,15 @@ yarn start
 
 # Setting up the socket server 
 
-##Run the following command to install dependencies:
+## Run the following command to install dependencies:
 
 ```shell
 yarn install
 ```
 
-##After installing the required packages:
+## After installing the required packages:
 
-###Run the socket server
+### Run the socket server
 
 ```shell
 yarn start
