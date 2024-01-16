@@ -43,9 +43,9 @@ DB_URL=mongodb://lampara-admin:lampara-admin@ac-unjezsj-shard-00-00.uxpqe43.mong
 TOKEN_SECRET=vQGJTzp6dVO3tQaP5TE593vShCaUWLKBlC/0hnycBryobczMIR4nRjlqhOtz5yD6
 ```
 
-##After setting up .env file
+## After setting up .env file
 
-###Run the backend 
+### Run the backend 
 
 ```shell
 yarn start
