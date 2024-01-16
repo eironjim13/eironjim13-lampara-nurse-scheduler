@@ -30,6 +30,7 @@ Currently, two official plugins are available:
 Run the following command to install dependencies:
 
 ```shell
+cd lampara-nurse-scheduler-backend
 yarn install
 ```
 
@@ -56,6 +57,7 @@ yarn start
 ## Run the following command to install dependencies:
 
 ```shell
+cd lampara-socket-server
 yarn install
 ```
 
