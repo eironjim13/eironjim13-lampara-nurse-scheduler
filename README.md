@@ -30,7 +30,7 @@ Currently, two official plugins are available:
 Run the following command to install dependencies:
 
 ```shell
-npm install
+yarn install
 ```
 
 ### Setting up .env file
