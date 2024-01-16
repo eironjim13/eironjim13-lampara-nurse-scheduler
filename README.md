@@ -1,4 +1,4 @@
-## Setup for ReactJS + Running the code
+## Setup for ReactJS + Running the frontend
 
 1. Install Nodejs ([Setup instructions](https://nodejs.org/en/download/package-manager/))
 2. Install NPM ([Setup instructions](https://www.npmjs.com/get-npm))
