@@ -1,3 +1,19 @@
+## Setup for ReactJS
+
+1. Install Nodejs ([Setup instructions](https://nodejs.org/en/download/package-manager/))
+2. Install NPM ([Setup instructions](https://www.npmjs.com/get-npm))
+3. Install dependencies
+
+```bash
+cd lampara-nurse-scheduler
+npm install --from-lock-json
+npm audit fix
+```
+
+4. Copy `.env.example` as `.env`.
+
+5. Change API url in `.env`.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
